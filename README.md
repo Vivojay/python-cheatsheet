@@ -17,11 +17,11 @@ Contents
 |#|Topic|Subtopics|
 |---|---|---|
 |**1** | **Collections** | **[`List`](#list)**__,__ **[`Dictionary`](#dictionary)**__,__ **[`Set`](#set)**__,__ **[`Tuple`](#tuple)**__,__ **[`Range`](#range)**|
-|**2** | ** Types** | **[`Type`](#type)**__,__ **[`String`](#string)**__,__ **[`Numbers`](#Numbers)**__,__ **[`Format`](#format---basic-syntax)** __,__ **[`Datetime`](#datetime)** |
-|**3** | ** Syntax** | **[`Args`](#arguments)**__,__ **[`Exception`](#exceptions)** |
-|**4** | ** System** | **[`Exit`](#exit)**__,__ **[`Print`](#print)**__,__ **[`Input`](#input)**__,__ **[`Open`](#open)**__,__ **[`OS_Commands`](#os-commands)** |
-|**5** | ** Data** | **[`Pickle`](#pickle)**__,__ **[`CSV`](#csv)** |
-|**6** | ** Eval and exec** | **[`Exec`](#Exec)**__,__ **[`Eval`](#eval)** |
+|**2** | **Types** | **[`Type`](#type)**__,__ **[`String`](#string)**__,__ **[`Numbers`](#Numbers)**__,__ **[`Format`](#format---basic-syntax)** __,__ **[`Datetime`](#datetime)** |
+|**3** | **Syntax** | **[`Args`](#arguments)**__,__ **[`Exception`](#exceptions)** |
+|**4** | **System** | **[`Exit`](#exit)**__,__ **[`Print`](#print)**__,__ **[`Input`](#input)**__,__ **[`Open`](#open)**__,__ **[`OS_Commands`](#os-commands)** |
+|**5** | **Data** | **[`Pickle`](#pickle)**__,__ **[`CSV`](#csv)** |
+|**6** | **Eval and exec** | **[`Exec`](#Exec)**__,__ **[`Eval`](#eval)** |
 # Main
 
 ```python
