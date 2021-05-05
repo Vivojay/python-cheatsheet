@@ -14,7 +14,7 @@ Quick Python Cheatsheet - Edited as per CBSE Syllabus
 Contents
 --------
 
-|#|Topics|Subtopics|
+|#|Topic|Subtopics|
 |---|---|---|
 |**1** | **Collections** | **[`List`](#list)**__,__ **[`Dictionary`](#dictionary)**__,__ **[`Set`](#set)**__,__ **[`Tuple`](#tuple)**__,__ **[`Range`](#range)**|
 |**2** | ** Types** | **[`Type`](#type)**__,__ **[`String`](#string)**__,__ **[`Numbers`](#Numbers)**__,__ **[`Format`](#format---basic-syntax)** __,__ **[`Datetime`](#datetime)** |
